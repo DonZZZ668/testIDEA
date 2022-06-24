@@ -8,5 +8,7 @@ public class HelloWorld {
         System.out.println("=====");
 
         System.out.println("bendiyouadd");
+        
+        System.out.println("ok");
     }
 }
